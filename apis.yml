@@ -1,0 +1,32 @@
+aid: audexum
+name: Audexum
+description: "Text-to-speech REST API with 43 voices and 33 languages"
+url: https://audexum.com/docs
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Text Analysis"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Text Analysis
+  - Public APIs
+apis:
+  - name: Audexum
+    description: "Text-to-speech REST API with 43 voices and 33 languages"
+    humanURL: https://audexum.com/docs
+    baseURL: https://audexum.com/docs
+    tags:
+      - Text Analysis
+    properties:
+      - type: Documentation
+        url: https://audexum.com/docs
+common:
+  - type: Website
+    url: https://audexum.com/docs
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
