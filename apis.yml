@@ -23,6 +23,10 @@ apis:
       - type: Documentation
         url: https://audexum.com/docs
 common:
+  - type: VulnerabilityDisclosure
+    url: security/audexum-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/audexum-domain-security.yml
   - type: Website
     url: https://audexum.com/docs
   - type: PublicAPIsListing
