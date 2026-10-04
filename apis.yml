@@ -39,7 +39,6 @@ apis:
   - name: Audexum
     description: "Text-to-speech REST API with 43 voices and 33 languages"
     humanURL: https://audexum.com/docs
-    baseURL: https://audexum.com/docs
     tags:
       - Text Analysis
     properties:
