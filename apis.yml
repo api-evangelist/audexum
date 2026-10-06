@@ -27,7 +27,7 @@ description: "Text-to-speech REST API with 43 voices and 33 languages"
 url: https://audexum.com/docs
 specificationVersion: '0.23'
 created: '2026-05-28'
-modified: '2026-05-28'
+modified: '2026-10-06'
 x-source: public-apis/public-apis
 x-category: "Text Analysis"
 x-tier: 3
@@ -45,6 +45,8 @@ apis:
       - type: Documentation
         url: https://audexum.com/docs
 common:
+  - url: https://audexum.com/blog/
+    type: Blog
   - type: VulnerabilityDisclosure
     url: security/audexum-vulnerability-disclosure.yml
   - type: DomainSecurity
